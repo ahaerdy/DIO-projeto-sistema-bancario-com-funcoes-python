@@ -13,7 +13,7 @@ Projeto em Python que implementa um sistema bancário CLI com funções puras, g
 
 ---
 
-## 🧠 Objetivo
+## Objetivo
 
 Reestruturar o sistema bancário básico com o uso de:
 
