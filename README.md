@@ -3,7 +3,7 @@ Projeto em Python que implementa um sistema bancário CLI com funções puras, g
 
 ## 📚 Curso
 
-- Curso "Otimizando o Sistema Bancário com Funções Python", Módulo 3 (Trabalhando com Coleções em Python) do Bootcamp Suzano Python Developer da plataforma de cursos DIO.
+- Curso "Otimizando o Sistema Bancário com Funções Python", Módulo 3 (Trabalhando com Coleções em Python) do [Bootcamp Suzano Python Developer](https://web.dio.me/track/suzano-python-developer) da plataforma de cursos [DIO](https://web.dio.me).
 
 - **Instrutor**: Guilherme Arthur de Carvalho  
     - **LinkedIn**: [@decarvalhogui](https://www.linkedin.com/in/decarvalhogui/)  
