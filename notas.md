@@ -1,11 +1,10 @@
-# Parte 1 - Desafio - Otimizando o Sistema Bancário com Funções Python
+# Desafio - Otimizando o Sistema Bancário com Funções Python
 
 - Instrutor: Guilherme Arthur de Carvalho (Analista de Sistemas)
 - Contato Libkedin: https://www.linkedin.com/in/decarvalhogui/
 - Linktree: https://linktr.ee/decarvalhogui
 
 ## Apresentação do Desafio
-
 
 <p align="center">
     <img src="images/image.png" alt="" width="560">
@@ -122,7 +121,7 @@ while True:
 ```
 </details>
 
-## Resolução deo Desafio
+## Solução Desafio
 
 <details>
      <summary> 🟥🟥🟥 <h3>Código SOLUÇÃO do projeto&nbsp<h3> 🟥🟥</summary>
