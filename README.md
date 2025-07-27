@@ -1,15 +1,15 @@
 # DIO-projeto-sistema-bancario-com-funcoes-python
-Projeto em Python que implementa um sistema bancário CLI com funções puras, gerenciamento de usuários e contas, depósitos, saques e extrato. Tarefa do Módulo 3, do curso "Otimizando um Sistema Bancário com Funções Python" do Bootcamp Suzando Python Developer.
+Projeto em Python que implementa um sistema bancário CLI com funções puras, gerenciamento de usuários e contas, depósitos, saques e extrato. Tarefa do Módulo 3, do curso "Otimizando um Sistema Bancário com Funções Python" do [Bootcamp Suzano Python Developer](https://web.dio.me/track/suzano-python-developer) da plataforma de cursos [DIO](https://web.dio.me).
 
 ## 📚 Curso
 
-- Curso "Otimizando o Sistema Bancário com Funções Python", Módulo 3 (Trabalhando com Coleções em Python) do [Bootcamp Suzano Python Developer](https://web.dio.me/track/suzano-python-developer) da plataforma de cursos [DIO](https://web.dio.me).
+- Curso "Otimizando o Sistema Bancário com Funções Python", Módulo 3 (Trabalhando com Coleções em Python) do Bootcamp Suzano Python Developer.
 
 - **Instrutor**: Guilherme Arthur de Carvalho  
     - **LinkedIn**: [@decarvalhogui](https://www.linkedin.com/in/decarvalhogui/)  
     - **Linktree**: [linktr.ee/decarvalhogui](https://linktr.ee/decarvalhogui)
 
-- Link do repositório PESSOAL de estudos deste curso: [Bootcamp Suzano Pyhon Developer](https://github.com/ahaerdy/DIO-learning/tree/main/Suzano%20-%20Python%20Developer)
+- Repositório PESSOAL de estudos deste curso: [Bootcamp Suzano Pyhon Developer](https://github.com/ahaerdy/DIO-learning/tree/main/Suzano%20-%20Python%20Developer)
 
 ---
 
