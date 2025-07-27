@@ -1,2 +1,59 @@
 # DIO-projeto-sistema-bancario-com-funcoes-python
 Projeto em Python que implementa um sistema bancário CLI com funções puras, gerenciamento de usuários e contas, depósitos, saques e extrato. Tarefa do Módulo 3, do curso "Otimizando um Sistema Bancário com Funções Python" do Bootcamp Suzando Python Developer.
+
+## 📚 Curso
+
+- **Instrutor**: Guilherme Arthur de Carvalho  
+- **LinkedIn**: [@decarvalhogui](https://www.linkedin.com/in/decarvalhogui/)  
+- **Linktree**: [linktr.ee/decarvalhogui](https://linktr.ee/decarvalhogui)
+
+---
+
+## 🧠 Objetivo
+
+Reestruturar o sistema bancário básico com o uso de:
+
+- Funções com parâmetros posicionais, nomeados e mistos;
+- Validações de entrada;
+- Armazenamento de usuários e contas em listas de dicionários;
+- Organização modular do código;
+- Regras de negócio para saque, depósito, extrato, criação de usuários e contas.
+
+---
+
+## 🔧 Funcionalidades Implementadas
+
+- ✅ Depósito
+- ✅ Saque com limite diário e por operação
+- ✅ Visualização de extrato
+- ✅ Cadastro de usuários com CPF único
+- ✅ Criação de contas vinculadas a usuários
+- ✅ Listagem de contas existentes
+
+---
+
+## 🖥️ Tecnologias Utilizadas
+
+- Python 3.10+
+- Funções puras (`def`)
+- Estruturas de dados nativas (listas e dicionários)
+- Formatação de strings
+- `textwrap` para exibição do menu
+
+---
+
+## 📁 Arquivos
+
+- `desafio.py`: código base (antes da refatoração)
+- `sistema_bancario.py`: solução final com todas as funcionalidades organizadas em funções
+- `README.md`: este arquivo
+
+---
+
+## ▶️ Como Executar
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+cd seu-repositorio
