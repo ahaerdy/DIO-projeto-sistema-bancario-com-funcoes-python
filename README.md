@@ -69,6 +69,8 @@ cd seu-repositorio
 python sistema_bancario.py
 ```
 
+---
+
 3. Siga as instruções no menu interativo.
 
 ## 📌 Regras de Negócio Implementadas
