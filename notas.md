@@ -293,7 +293,7 @@ main()
 ```
 </details>
 
-## Análise Passo a Passo
+## Análise Passo a Passo das Funções Implementadas
 
 ### 🔘 Função menu
 

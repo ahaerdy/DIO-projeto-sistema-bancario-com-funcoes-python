@@ -90,4 +90,4 @@ python sistema_bancario.py
 
 ## 📷 Imagens e Anotações
 
-- As capturas de tela e anotações utilizadas durante o desenvolvimento estão disponíveis no arquivo notas.md com imagens no diretório /images
+- As capturas de tela e anotações utilizadas durante o desenvolvimento estão disponíveis no arquivo [notas.md](https://github.com/ahaerdy/DIO-projeto-sistema-bancario-com-funcoes-python/blob/main/notas.md) com imagens no diretório [/images](https://github.com/ahaerdy/DIO-projeto-sistema-bancario-com-funcoes-python/tree/main/images).
