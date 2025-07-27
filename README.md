@@ -9,7 +9,7 @@ Projeto em Python que implementa um sistema bancário CLI com funções puras, g
     - **LinkedIn**: [@decarvalhogui](https://www.linkedin.com/in/decarvalhogui/)  
     - **Linktree**: [linktr.ee/decarvalhogui](https://linktr.ee/decarvalhogui)
 
-- Repositório PESSOAL de estudos deste curso: [Bootcamp Suzano Pyhon Developer](https://github.com/ahaerdy/DIO-learning/tree/main/Suzano%20-%20Python%20Developer)
+- Repositório de estudos deste curso: [Bootcamp Suzano Pyhon Developer](https://github.com/ahaerdy/DIO-learning/tree/main/Suzano%20-%20Python%20Developer)
 
 ---
 
