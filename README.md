@@ -64,3 +64,33 @@ Reestruturar o sistema bancário básico com o uso de:
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
+```
+
+2. Execute o programa no terminal:
+
+```bash
+python sistema_bancario.py
+```
+
+3. Siga as instruções no menu interativo.
+
+## 📌 Regras de Negócio Implementadas
+
+- Limite de 3 saques diários de até R$500 cada
+- CPF único por usuário
+- Cada conta vinculada a um único usuário
+- Usuário pode ter mais de uma conta
+- Saldo e extrato atualizados em cada operação
+
+## 🏁 Aprendizados
+
+- Durante a implementação do projeto, foi possível reforçar conceitos como:
+- Uso de parâmetros * (keyword-only) e / (positional-only)
+- Encapsulamento de lógica em funções puras
+- Controle de fluxo com if/elif/els
+- Manipulação de dados com listas e dicionários
+- Boas práticas de modularização e legibilidade de código
+
+## 📷 Imagens e Anotações
+
+- As capturas de tela e anotações utilizadas durante o desenvolvimento estão disponíveis no arquivo notas.md com imagens no diretório /images
