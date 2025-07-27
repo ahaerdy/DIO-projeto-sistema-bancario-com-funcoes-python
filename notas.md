@@ -294,7 +294,7 @@ main()
 
 ## Análise Passo a Passo das Funções Implementadas
 
-### 🔘 Função menu
+### 🔘 Função __menu()__
 
 <p align="center">
     <img src="images/image-10.png" alt="" width="560">
@@ -304,7 +304,7 @@ main()
 
 - A instrução `return input(textwrap.dedent(menu))` mostra o menu ao usuário e retorna o valor digitado como string.
 
-### 🔘 Função __depositar__
+### 🔘 Função __depositar()__ 
 
 <p align="center">
     <img src="images/image-11.png" alt="" width="640">
@@ -329,7 +329,7 @@ main()
     - Três iguais "===" significam uma mensagem se SUCESSO.
     - Três arrobas "@@@" significam uma mensagem de FALHA.
 
-### 🔘 Função __sacar__
+### 🔘 Função __sacar()__
 
 <p align="center">
     <img src="images/image-12.png" alt="" width="640">
@@ -357,7 +357,7 @@ main()
     <img src="images/image-14.png" alt="" width="480">
 </p>
 
-### 🔘 Função __exibir_extato__
+### 🔘 Função __exibir_extato()__
 
 <p align="center">
     <img src="images/image-15.png" alt="" width="720">
@@ -385,7 +385,7 @@ main()
     exibir_extrato(saldo, extrato=extrato)
 ```
 
-### 🔘 Função __criar_usuario__
+### 🔘 Função __criar_usuario()__
 
 <p align="center">
     <img src="images/image-17.png" alt="" width="1080">
@@ -401,7 +401,7 @@ main()
 
 - Não pode haver dois usuários com o mesmo CPF.
 
-#### Função __filtrar_usuário__ (chamada por __criar_usuario__)
+#### Função __filtrar_usuário()__ (chamada por __criar_usuario()__)
 
 <p align="center">
     <img src="images/image-18.png" alt="" width="860">
@@ -428,7 +428,7 @@ main()
         ]
         ```
 
-### 🔘 Função __criar_conta__
+### 🔘 Função __criar_conta()__
 
 <p align="center">
     <img src="images/image-19.png" alt="" width="860">
